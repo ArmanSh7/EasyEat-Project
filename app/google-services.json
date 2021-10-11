@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13815315439",
+    "firebase_url": "https://easyeat-238422.firebaseio.com",
+    "project_id": "easyeat-238422",
+    "storage_bucket": "easyeat-238422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13815315439:android:b66f3a6ebc50b985",
+        "android_client_info": {
+          "package_name": "com.cse110easyeat.easyeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13815315439-4msniss000e97c4f871rj08v145scuu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse110easyeat.easyeat",
+            "certificate_hash": "56fd3ea16cfb8924fd8e267d9cafadffacbeffc6"
+          }
+        },
+        {
+          "client_id": "13815315439-06gf4cjqi5ekjr0mrv1lpjss5q3c7ibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PEVaFP_40kUEj6UMHvJHFCHPc2rVaAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13815315439-06gf4cjqi5ekjr0mrv1lpjss5q3c7ibf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
